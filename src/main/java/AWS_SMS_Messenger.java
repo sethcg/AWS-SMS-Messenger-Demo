@@ -1,5 +1,3 @@
-package com.github.sethcg;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
